@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-hi sean here to change the world and also websites
+hi sean here to change the world with my first web page 
+and also websites
 You can use the [editor on GitHub](https://github.com/seanwalsh88/Hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
